@@ -3,4 +3,5 @@ Git is free software distributed under the GPL.
 Git has a mutable index called stage.
 Creating a new branch is quick.
 fix bug 101.
-num345
+num345.
+
